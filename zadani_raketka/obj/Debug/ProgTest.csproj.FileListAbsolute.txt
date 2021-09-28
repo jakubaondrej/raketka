@@ -1,9 +1,0 @@
-E:\Programovani\raketka\zadani_raketka\bin\Debug\ProgTest.exe.config
-E:\Programovani\raketka\zadani_raketka\bin\Debug\ProgTest.exe
-E:\Programovani\raketka\zadani_raketka\bin\Debug\ProgTest.pdb
-E:\Programovani\raketka\zadani_raketka\obj\Debug\ProgTest.csprojAssemblyReference.cache
-E:\Programovani\raketka\zadani_raketka\obj\Debug\ProgTest.Form1.resources
-E:\Programovani\raketka\zadani_raketka\obj\Debug\ProgTest.Properties.Resources.resources
-E:\Programovani\raketka\zadani_raketka\obj\Debug\ProgTest.csproj.GenerateResource.cache
-E:\Programovani\raketka\zadani_raketka\obj\Debug\ProgTest.exe
-E:\Programovani\raketka\zadani_raketka\obj\Debug\ProgTest.pdb
